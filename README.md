@@ -148,7 +148,7 @@ Spirit Pet 是一个网页小精灵：
 
 ## 9. 版权与许可
 
-Copyright © 2026 MHK Color / LiMoBai. All rights reserved.
+Copyright © 2026 LiMoBai. All rights reserved.
 
 This project is proprietary. **It is not open source.** No permission is granted to use, copy, modify, distribute, sublicense or create derivative works from the code, visual assets, game design or documentation without prior written permission.
 
